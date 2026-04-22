@@ -29,6 +29,7 @@ Passionate about improving software quality through structured testing, bug repo
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-472F92?style=for-the-badge&logo=appium&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ---
