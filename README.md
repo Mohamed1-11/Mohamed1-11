@@ -1,9 +1,11 @@
 # Hi, I'm Mohamed Ahmed 👋
 
-💻 **Junior Software QA Engineer**
+💻 Junior Software QA Engineer
 
-Software Test Engineer focused on Manual, API, and Automation Testing. ISTQB CTFL v4 certified and NTI trained. Experienced in test case design, bug reporting, performance testing, and database validation. 
-Passionate about improving software quality through effective testing practices..
+ISTQB CTFL v4 Certified | NTI Trained  
+Focused on Manual, API, Automation & Performance Testing
+Passionate about improving software quality through structured testing, bug reporting, and continuous learning.
+
 
 ---
 
@@ -12,6 +14,7 @@ Passionate about improving software quality through effective testing practices.
 - Manual Testing
 - API
 - Automation
+- Database
 - Performance
 
   
@@ -23,6 +26,8 @@ Passionate about improving software quality through effective testing practices.
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
@@ -50,17 +55,4 @@ Automation testing project using Playwright.
 ---
 
 ⭐ Always learning and improving my testing mindset.
-<!--
-**Mohamed1-11/Mohamed1-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
