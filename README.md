@@ -14,8 +14,8 @@ Focused on structured testing, bug reporting, and continuous learning.
 - Manual Testing
 - API Testing
 - Automation Testing
-- Database Testing
 - Performance Testing
+- Database Testing
 
 ---
 
