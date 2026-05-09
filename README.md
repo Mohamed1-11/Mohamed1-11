@@ -34,6 +34,8 @@ Passionate about improving software quality through structured testing, bug repo
 
 ---
 
+🔗 [Manual Testing – Test Cases & Bug Reports](https://drive.google.com/drive/folders/104eBfSMDTi2oShlETQHHwmhiYBIrer23?usp=drive_link)
+
 ## 📂 Projects
 
 🔹 **E-commerce Testing Project**  
