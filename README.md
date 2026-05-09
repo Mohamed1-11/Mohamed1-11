@@ -33,7 +33,7 @@ Focused on structured testing, bug reporting, and continuous learning.
 
 ---
 
-## 📑 Manual Testing 
+## 📑 Manual Testing sample 
 
 🔗 [Test Cases & Bug Reports](https://drive.google.com/drive/folders/104eBfSMDTi2oShlETQHHwmhiYBIrer23?usp=drive_link)
 
