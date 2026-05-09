@@ -1,26 +1,25 @@
 # Hi, I'm Mohamed Ahmed 👋
 
-💻 Junior Software QA Engineer
+💻 Junior Software QA Engineer  
 
 ISTQB CTFL v4 Certified | NTI Trained  
-Focused on Manual, API, Automation & Performance Testing
-Passionate about improving software quality through structured testing, bug reporting, and continuous learning.
 
+Passionate about improving software quality through Manual, API, Automation, and Performance Testing.  
+Focused on structured testing, bug reporting, and continuous learning.
 
 ---
 
 ## 🔍 Skills
 
 - Manual Testing
-- API
-- Automation
-- Database
-- Performance
+- API Testing
+- Automation Testing
+- Database Testing
+- Performance Testing
 
-  
 ---
 
-## 🛠 Tools
+## 🛠 Tools & Technologies
 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
@@ -34,28 +33,30 @@ Passionate about improving software quality through structured testing, bug repo
 
 ---
 
-🔗 [Manual Testing – Test Cases & Bug Reports](https://drive.google.com/drive/folders/104eBfSMDTi2oShlETQHHwmhiYBIrer23?usp=drive_link)
+## 📑 Manual Testing 
+
+🔗 [Test Cases & Bug Reports](https://drive.google.com/drive/folders/104eBfSMDTi2oShlETQHHwmhiYBIrer23?usp=drive_link)
+
+---
 
 ## 📂 Projects
 
-🔹 **E-commerce Testing Project**  
-End-to-end manual testing for an e-commerce mobile application including:
-- Writing test cases
+### 🔹 E-commerce Testing Project
+Performed end-to-end manual testing for an e-commerce mobile application including:
+- Writing detailed test cases
 - Executing test scenarios
-- Reporting bugs
+- Reporting and tracking bugs
 
-🔹 **Healthcare System Automation**  
+### 🔹 Healthcare System Automation
 Automation testing project using Playwright.
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-- LinkedIn: ([https://www.linkedin.com/in/mohamed-ahmed-7883712a6/))
-- Email: (mohamed.ahmedqa99@gmail.com
-)
+- LinkedIn: [Mohamed Ahmed](https://www.linkedin.com/in/mohamed-ahmed-7883712a6/)
+- Email: mohamed.ahmedqa99@gmail.com
 
 ---
 
 ⭐ Always learning and improving my testing mindset.
-
