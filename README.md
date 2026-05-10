@@ -39,6 +39,11 @@ Focused on structured testing, bug reporting, and continuous learning.
 
 ---
 
+## 🌐 API Testing Samples Including Test Scripts & Data-Driven Testing
+
+🔗 [Postman Collections & API Test Cases](https://drive.google.com/drive/folders/1cPnlYGqtNPZmvvAz5C4F2x_p3yzrWiJU?usp=sharing)
+---
+
 ## 📂 Projects
 
 ### 🔹 E-commerce Testing Project
