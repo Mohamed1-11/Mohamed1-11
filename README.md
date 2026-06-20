@@ -33,6 +33,15 @@ Focused on structured testing, bug reporting, and continuous learning.
 
 ---
 
+### 🎭 Test Automation Projects
+
+#### 🔹 E-Commerce Automation Framework (Selenium & Java)
+Scalable automation suite developed using Selenium WebDriver to test e-commerce web applications.
+- **Key Features:** Page Object Model (POM), TestNG for test execution, and data-driven testing concepts.
+- 🔗 **GitHub Repository:** [View Project Code](https://github.com/Mohamed1-11/AIM-qa-task)
+
+---
+
 ## 📑 Manual Testing sample 
 
 🔗 [Test Cases & Bug Reports](https://drive.google.com/drive/folders/104eBfSMDTi2oShlETQHHwmhiYBIrer23?usp=drive_link)
@@ -44,18 +53,7 @@ Focused on structured testing, bug reporting, and continuous learning.
 🔗 [Postman Collections & API Test Cases](https://drive.google.com/drive/folders/1cPnlYGqtNPZmvvAz5C4F2x_p3yzrWiJU?usp=sharing)
 ---
 
-## 📂 Projects
 
-### 🔹 E-commerce Testing Project
-Performed end-to-end manual testing for an e-commerce mobile application including:
-- Writing detailed test cases
-- Executing test scenarios
-- Reporting and tracking bugs
-
-### 🔹 Healthcare System Automation
-Automation testing project using Playwright.
-
----
 
 ## 📫 Connect with Me
 
