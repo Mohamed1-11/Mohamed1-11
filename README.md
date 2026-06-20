@@ -37,7 +37,7 @@ Focused on structured testing, bug reporting, and continuous learning.
 
 #### 🔹 E-Commerce Automation Framework (Selenium & testNG with Java )
 Scalable automation suite developed using Selenium WebDriver to test e-commerce web applications.
-- **Key Features:** Page Object Model (POM), TestNG for test execution, and data-driven testing concepts.
+- **Key Features:** Page Object Model (POM), TestNG for test execution.
 - 🔗 **GitHub Repository:** [View Project Code](https://github.com/Mohamed1-11/AIM-qa-task)
 
 ---
