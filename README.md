@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Ahmed 👋
 
-💻 Junior Software QA Engineer  
+💻 Software QA Engineer  
 
 ISTQB CTFL v4 Certified | NTI Trained  
 
